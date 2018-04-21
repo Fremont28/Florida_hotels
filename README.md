@@ -5,4 +5,4 @@ Booking.com is a Dutch-based a travel aggregator where users can book hotels and
 
 We were interested in comparing review scores across cities in Florida. With its tropical climate and sandy beaches, Florida is a vacation hub for many Americans and foreigners. 
 
-Read Here: 
+Read Here: https://beyondtheaverage.wordpress.com/2018/04/21/florida-hotels-are-well-liked/
